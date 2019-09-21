@@ -1,5 +1,4 @@
-# Y86-Emulator
-Y86 Emulator and Y86 Disassembler
+# Y86-Emulator and Y86 Disassembler
 Y86 instructions are different from Intel x86 instructions. This program designs an emulator that can run Y86 instructions on an
 Intel machine. There are 2 input files included: prog1.y86 and prog2.y86 each which contain different instructions.
 
